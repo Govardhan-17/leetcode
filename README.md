@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govardhan-17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Govardhan-17/leetcode/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Govardhan-17/leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govardhan-17/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Govardhan-17/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
