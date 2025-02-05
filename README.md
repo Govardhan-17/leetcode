@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Govardhan-17/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Govardhan-17/leetcode/tree/master/0029-divide-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
