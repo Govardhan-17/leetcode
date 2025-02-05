@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Govardhan-17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Govardhan-17/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Govardhan-17/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Govardhan-17/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 ## Bit Manipulation
 |  |
