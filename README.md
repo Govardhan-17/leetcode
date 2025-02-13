@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Govardhan-17/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govardhan-17/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Govardhan-17/leetcode/tree/master/0020-valid-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/Govardhan-17/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Govardhan-17/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Govardhan-17/leetcode/tree/master/3379-score-of-a-string) |
 ## Linked List
