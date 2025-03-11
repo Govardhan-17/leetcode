@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Govardhan-17/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Govardhan-17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Govardhan-17/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Govardhan-17/leetcode/tree/master/0011-container-with-most-water) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Govardhan-17/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
 | ------- |
