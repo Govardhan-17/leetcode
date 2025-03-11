@@ -3,11 +3,12 @@ class Solution:
         
         
         ans=-1
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i] < nums[j]:
-                    h=nums[j]-nums[i]
-                    ans=max(h,ans)
-                
+        low =nums[0]
+        for i in range(1,len(nums)):
+            if low<nums[i]:
+                k=nums[i]-low
+                ans=max(ans,k)
+            low=min(low,nums[i])
+
         return ans
         
