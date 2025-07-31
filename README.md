@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Govardhan-17/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govardhan-17/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Govardhan-17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Govardhan-17/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Govardhan-17/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Govardhan-17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Govardhan-17/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Govardhan-17/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Govardhan-17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Govardhan-17/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Govardhan-17/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Govardhan-17/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
