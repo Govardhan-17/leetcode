@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Govardhan-17/leetcode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Govardhan-17/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Govardhan-17/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Govardhan-17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Govardhan-17/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Govardhan-17/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
