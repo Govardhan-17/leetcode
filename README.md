@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Govardhan-17/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Govardhan-17/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Govardhan-17/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Govardhan-17/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Govardhan-17/leetcode/tree/master/0268-missing-number) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Govardhan-17/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Govardhan-17/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Govardhan-17/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Govardhan-17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Govardhan-17/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Govardhan-17/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
